@@ -1,36 +1,36 @@
-import { benefitIcon1, benefitIcon2, benefitIcon3, benefitIcon4, benefitImage2, chromeCast, disc02, discord, discordBlack, facebook, figma, file02, framer, homeSmile, instagram, notification2, notification3, notification4, notion, photoShop, plusSquare, protoPie, raindrop, recording01, recording03, roadmap1, roadmap2, roadmap3, roadmap4, searchMd, slack, sliders04, telegram, twitter, yourLogo, } from "../assets";
+import { benefitIcon1, benefitIcon2, benefitIcon3, benefitIcon4, benefitImage2, chromeCast, disc02, discord, discordBlack, facebook, figma, file02, framer, homeSmile, instagram, notification2, notification3, notification4, notion, photoShop, plusSquare, protoPie, raindrop, recording01, recording03, roadmap1, roadmap2, roadmap3, roadmap4, searchMd, slack, sliders04, telegram, twitter, yourLogo, } from '../assets';
 
 export const navigation = [
     {
         id: "0",
         title: "Features",
-        url: "/chatwise/features",
+        url: "#features",
     },
     {
         id: "1",
         title: "Pricing",
-        url: "/chatwise/pricing",
+        url: "#pricing",
     },
     {
         id: "2",
         title: "How to use",
-        url: "/chatwise/how-to-use",
+        url: "#how-to-use",
     },
     {
         id: "3",
         title: "Roadmap",
-        url: "/chatwise/roadmap",
+        url: "#roadmap",
     },
     {
         id: "4",
         title: "New account",
-        url: "/chatwise/signup",
+        url: "#signup",
         onlyMobile: true,
     },
     {
         id: "5",
         title: "Sign in",
-        url: "/chatwise/login",
+        url: "#login",
         onlyMobile: true,
     },
 ];

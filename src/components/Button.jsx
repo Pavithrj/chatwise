@@ -6,7 +6,7 @@ const Button = ({ className, href, onClick, children, px, white }) => {
     const divClasses = `relative z-10`;
 
     const renderButton = () => (
-        <button className={classes}>
+        <button className={classes} onClick={onClick}>
             <div className={divClasses}>
                 {children}
             </div>
