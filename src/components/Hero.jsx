@@ -10,9 +10,9 @@ const Hero = () => {
             <div className="container relative">
                 <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[4rem] md:mb-20 lg:mb-[6rem]">
                     <h1 className="mb-6 h1">
-                        Explore the Possibilities of AI Chatting with ChatWise
+                        Explore the Possibilities of AI Chatting with
 
-                        <div className="relative inline-block">
+                        <div className="relative inline-block ml-3">
                             ChatWise
 
                             <img src={curve} alt="curve" className="absolute left-0 w-full top-full xl:-mt-2" width={624} height={28} />
