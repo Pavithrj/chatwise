@@ -41,13 +41,13 @@ export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [yourLogo, yourLogo, yourLogo, yourLogo, yourLogo];
 
-export const brainwaveServices = [
+export const chatWiseServices = [
     "Photo generating",
     "Photo enhance",
     "Seamless Integration",
 ];
 
-export const brainwaveServicesIcons = [
+export const chatWiseServicesIcons = [
     recording03,
     recording01,
     disc02,
