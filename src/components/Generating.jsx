@@ -1,4 +1,5 @@
 import loading from './../assets/loading.png';
+import PropTypes from 'prop-types';
 
 const Generating = ({ className }) => {
     return (
@@ -8,6 +9,10 @@ const Generating = ({ className }) => {
             AI is generating
         </div>
     )
+};
+
+Generating.propTypes = {
+    className: PropTypes.string
 };
 
 export default Generating;

@@ -1,4 +1,5 @@
 import { companyLogos } from '../constants';
+import PropTypes from 'prop-types';
 
 const CompanyLogos = ({ className }) => {
     return (
@@ -18,6 +19,10 @@ const CompanyLogos = ({ className }) => {
             </ul>
         </div>
     )
+};
+
+CompanyLogos.propTypes = {
+    className: PropTypes.string
 };
 
 export default CompanyLogos;
