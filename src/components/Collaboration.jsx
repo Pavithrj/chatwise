@@ -5,8 +5,6 @@ import Button from './Button';
 import ChatWiseIcon from './../assets/ChatWiseIcon.png';
 
 const Collaboration = () => {
-    console.log("text", text);
-
     return (
         <Section crosses>
             <div className="container lg:flex">
