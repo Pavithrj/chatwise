@@ -4,23 +4,37 @@ import { benefits } from './../constants/index';
 import Arrow from '../assets/svg/Arrow';
 import { GradientLight } from './design/Benefits';
 import ClipPath from '../assets/svg/ClipPath';
+import CardOne from '../assets/benefits/CardOne';
+import CardTwo from '../assets/benefits/CardTwo';
+import CardThree from '../assets/benefits/CardThree';
+import CardFour from '../assets/benefits/CardFour';
+import CardFive from '../assets/benefits/CardFive';
+import CardSix from '../assets/benefits/CardSix';
 
 const Benefits = () => {
+    const backgroundSVG = [CardOne, CardTwo, CardThree, CardFour, CardFive, CardSix];
+
     return (
         <Section id="features">
             <div className="container relative z-2">
                 <Heading className="md:max-w-md lg:max-w-2xl" title="Chat Smatter, Not Harder with ChatWise" />
 
-                <div className="flex flex-wrap gap-10 mb-10">
+                <div className="flex flex-wrap justify-center gap-10 mb-10">
                     {benefits.map((item) => {
+                        const BackgroundSVG = backgroundSVG[item.id % backgroundSVG.length];
+
                         return (
-                            <div key={item.id} className="relative block p-0.5 bg-no-repeat bg-[length:100%_100%] md:max-w-[24rem]" style={{ backgroundImage: `url(${item.backgroundUrl})` }}>
+                            <div key={item.id} className="relative md:max-w-[24rem]">
+                                <div className="absolute inset-0 -z-10">
+                                    <BackgroundSVG key={item.id} />
+                                </div>
+
                                 <div className="relative z-2 flex flex-col min-h-[22rem] p-[2.4rem] pointer-events-none">
                                     <h5 className="mb-5 h2">
                                         {item.title}
                                     </h5>
 
-                                    <p className="mb-6 body-2 text-n-3">
+                                    <p className="mb-6 body-2 text-n-3 w-[310px]">
                                         {item.text}
                                     </p>
 
