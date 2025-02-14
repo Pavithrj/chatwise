@@ -9,7 +9,7 @@ const Collaboration = () => {
     return (
         <Section crosses>
             <div className="container lg:flex">
-                <div className="max-w-[25rem]">
+                <div className="lg:max-w-[25rem] lg:text-left lg:justify-start lg:items-start w-full text-center flex flex-col items-center justify-center">
                     <h2 className="mb-4 h2 md:mb-8">
                         AI Chat App for seamless collaboration
                     </h2>
@@ -42,7 +42,7 @@ const Collaboration = () => {
                 </div>
 
                 <div className="lg:ml-auto xl:w-[38rem] mt-4">
-                    <p className="body-2 text-n-4 mb-8 md:mb-16 lg:mb-32 lg:w-[22rem] lg:mx-auto">
+                    <p className="body-2 text-n-4 mb-8 md:mb-16 lg:mb-32 lg:w-[22rem] lg:mx-auto text-center lg:text-left">
                         {text}
                     </p>
 

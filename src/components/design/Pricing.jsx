@@ -1,4 +1,4 @@
-import { lines } from './../../assets/pricing/lines.svg';
+import { lines } from './../../assets';
 
 export const LeftLine = () => {
     return (
