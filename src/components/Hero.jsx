@@ -31,7 +31,7 @@ const Hero = () => {
                         Upgrade your productivity with ChatWise, the open AI chat app.
                     </p>
 
-                    <Button href="/pricing" white>
+                    <Button href="/chatwise/pricing" white>
                         Get started
                     </Button>
                 </div>

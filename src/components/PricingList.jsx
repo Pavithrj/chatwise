@@ -28,7 +28,7 @@ const PricingList = () => {
                             </div>
                         }
 
-                        <Button className="w-full mb-6" href={item.price ? "/pricing" : "mailto:contact@jsmaster.pro"} white={!!item.price}>
+                        <Button className="w-full mb-6" href={item.price ? "/chatwise/pricing" : "/chatwise"} white={!!item.price}>
                             {item.price ? "Get started" : "Contact us"}
                         </Button>
 
