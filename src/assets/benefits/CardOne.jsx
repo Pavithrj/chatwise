@@ -8,7 +8,8 @@ const CardOne = () => (
             <linearGradient id="paint0_linear_333_9188" x1="192" y1="0" x2="192" y2="366" gradientUnits="userSpaceOnUse">
                 <stop stopColor="#33CEFF" />
 
-                <stop offset="0.562842" stopColor="#D633FF" stopOpacity="0" /></linearGradient>
+                <stop offset="0.562842" stopColor="#D633FF" stopOpacity="0" />
+            </linearGradient>
         </defs>
     </svg>
 );

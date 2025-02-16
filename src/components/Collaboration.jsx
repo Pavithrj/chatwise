@@ -27,7 +27,7 @@ const Collaboration = () => {
                                     </div>
 
                                     {item.text &&
-                                        <p className="mt-3 body-2 text-n-4">
+                                        <p className="mt-3 text-left body-2 text-n-4">
                                             {item.text}
                                         </p>
                                     }

@@ -6,7 +6,7 @@ import Generating from './Generating';
 import Notification from './Notification';
 import { BackgroundCircles, BottomLine, Gradient } from './design/Hero';
 import { heroIcons } from './../constants/index';
-import { curve, robot, heroBackground } from './../assets';
+import { curve, robot, heroBackground } from '../assets';
 import CompanyLogos from './CompanyLogos';
 
 const Hero = () => {

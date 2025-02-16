@@ -1,4 +1,6 @@
-import { benefitIcon1, benefitIcon2, benefitIcon3, benefitIcon4, benefitImage2, chromeCast, disc02, discord, discordBlack, facebook, figma, file02, framer, homeSmile, instagram, notification2, notification3, notification4, notion, photoShop, plusSquare, protoPie, raindrop, recording01, recording03, roadmap1, roadmap2, roadmap3, roadmap4, searchMd, slack, sliders04, telegram, twitter, yourLogo, } from '../assets';
+import { benefitIcon1, benefitIcon2, benefitIcon3, benefitIcon4, benefitImage2, chromeCast, disc02, discord, discordBlack, facebook, figma, file02, framer, homeSmile, instagram, notification2, notification3, notification4, notion, photoShop, plusSquare, protoPie, raindrop, recording01, recording03, roadmap1, roadmap2, roadmap3, roadmap4, searchMd, slack, sliders04, telegram, twitter, } from '../assets';
+
+import YourLogo from '../assets/hero/YourLogo';
 
 export const navigation = [
     {
@@ -39,7 +41,7 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [yourLogo, yourLogo, yourLogo, yourLogo, yourLogo];
+export const companyLogos = [YourLogo, YourLogo, YourLogo, YourLogo, YourLogo];
 
 export const chatWiseServices = [
     "Photo generating",
