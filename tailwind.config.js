@@ -58,7 +58,7 @@ export default {
                 DEFAULT: "200ms",
             },
             transitionTimingFunction: {
-                DEFAULT: "linear",
+                DEFAULT: "linear"
             },
             zIndex: {
                 1: "1",
