@@ -126,7 +126,7 @@ export default {
                         {},
                 },
                 ".quote": {
-                    "@apply font-code text-lg leading-normal": {},
+                    "@apply font-code text-lg leading-normal": {}
                 },
                 ".button": {
                     "@apply font-code text-xs font-bold uppercase tracking-wider": {}
