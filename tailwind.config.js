@@ -132,6 +132,7 @@ export default {
                     "@apply font-code text-xs font-bold uppercase tracking-wider": {},
                 },
             });
+
             addUtilities({
                 ".tap-highlight-color": {
                     "-webkit-tap-highlight-color": "rgba(0, 0, 0, 0)"
