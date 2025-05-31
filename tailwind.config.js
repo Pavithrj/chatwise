@@ -135,7 +135,7 @@ export default {
             addUtilities({
                 ".tap-highlight-color": {
                     "-webkit-tap-highlight-color": "rgba(0, 0, 0, 0)",
-                },
+                }
             });
         })
     ]
