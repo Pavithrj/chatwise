@@ -106,7 +106,7 @@ export default {
                     "@apply text-[2rem] leading-normal": {},
                 },
                 ".h5": {
-                    "@apply text-2xl leading-normal": {},
+                    "@apply text-2xl leading-normal": {}
                 },
                 ".h6": {
                     "@apply font-semibold text-lg leading-8": {}
