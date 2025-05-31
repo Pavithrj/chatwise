@@ -52,7 +52,7 @@ export default {
                 15: "3.75rem",
             },
             opacity: {
-                15: ".15",
+                15: ".15"
             },
             transitionDuration: {
                 DEFAULT: "200ms"
