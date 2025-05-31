@@ -119,7 +119,7 @@ export default {
                     "@apply font-light text-[0.875rem] leading-6 md:text-base": {},
                 },
                 ".caption": {
-                    "@apply text-sm": {},
+                    "@apply text-sm": {}
                 },
                 ".tagline": {
                     "@apply font-grotesk font-light text-xs tracking-tagline uppercase":
