@@ -44,7 +44,7 @@ export default {
                 grotesk: "var(--font-grotesk)",
             },
             letterSpacing: {
-                tagline: ".15em",
+                tagline: ".15em"
             },
             spacing: {
                 0.25: "0.0625rem",
