@@ -79,7 +79,7 @@ export default {
                 "benefit-card-3": "url(assets/benefits/card-3.svg)",
                 "benefit-card-4": "url(assets/benefits/card-4.svg)",
                 "benefit-card-5": "url(assets/benefits/card-5.svg)",
-                "benefit-card-6": "url(assets/benefits/card-6.svg)",
+                "benefit-card-6": "url(assets/benefits/card-6.svg)"
             }
         }
     },
