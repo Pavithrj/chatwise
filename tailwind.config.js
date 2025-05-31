@@ -68,7 +68,7 @@ export default {
                 5: "5",
             },
             borderWidth: {
-                DEFAULT: "0.0625rem",
+                DEFAULT: "0.0625rem"
             },
             backgroundImage: {
                 "radial-gradient": "radial-gradient(var(--tw-gradient-stops))",
