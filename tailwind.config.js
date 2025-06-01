@@ -123,8 +123,7 @@ export default {
                     "@apply text-sm": {}
                 },
                 ".tagline": {
-                    "@apply font-grotesk font-light text-xs tracking-tagline uppercase":
-                        {}
+                    "@apply font-grotesk font-light text-xs tracking-tagline uppercase": {}
                 },
                 ".quote": {
                     "@apply font-code text-lg leading-normal": {}
