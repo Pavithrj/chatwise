@@ -6,7 +6,7 @@
 - [📸 Screenshots](#-screenshots)
 - [⚙️ Tech Stack](#️-tech-stack)
 - [📂 Folder Structure](#-folder-structure)
-  - [🧰 Installation Steps](#-installation-steps)
+- [🧰 Installation Steps](#-installation-steps)
 
 ## 💬 Chatwise
 
