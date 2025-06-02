@@ -16,7 +16,7 @@ export default [
                 sourceType: "module",
                 ecmaFeatures: {
                     jsx: true
-                },
+                }
             }
         },
         settings: {
