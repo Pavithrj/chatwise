@@ -2,7 +2,7 @@
 
 - [💬 Chatwise](#-chatwise)
 - [🌍 Live Demo](#-live-demo)
-  - [✨ Features](#-features)
+- [✨ Features](#-features)
   - [📸 Screenshots](#-screenshots)
   - [⚙️ Tech Stack](#️-tech-stack)
   - [📂 Folder Structure](#-folder-structure)
