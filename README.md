@@ -4,7 +4,7 @@
 - [🌍 Live Demo](#-live-demo)
 - [✨ Features](#-features)
 - [📸 Screenshots](#-screenshots)
-  - [⚙️ Tech Stack](#️-tech-stack)
+- [⚙️ Tech Stack](#️-tech-stack)
   - [📂 Folder Structure](#-folder-structure)
   - [🧰 Installation Steps](#-installation-steps)
 
