@@ -1,6 +1,6 @@
 # 🗂️ Table of Contents
 
-  - [💬 Chatwise](#-chatwise)
+- [💬 Chatwise](#-chatwise)
   - [🌍 Live Demo](#-live-demo)
   - [✨ Features](#-features)
   - [📸 Screenshots](#-screenshots)
