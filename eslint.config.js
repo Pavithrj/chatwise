@@ -14,7 +14,7 @@ export default [
             parserOptions: {
                 ecmaVersion: "latest",
                 ecmaFeatures: { 
-                    jsx: true 
+                    jsx: true
                 },
                 sourceType: "module"
             }
