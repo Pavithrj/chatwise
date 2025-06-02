@@ -18,7 +18,7 @@ export default [
             }
         },
         settings: {
-             react: { 
+            react: {
                 version: "18.3"
             }
         },
