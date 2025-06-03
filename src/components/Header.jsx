@@ -4,7 +4,7 @@ import { disablePageScroll, enablePageScroll } from 'scroll-lock';
 import Button from './Button';
 import { navigation } from './../constants/index';
 import { HamburgerMenu } from './design/Header';
-import ChatWiseIcon from './../../src/assets/ChatWiseIcon.png';
+import ChatWiseIcon from './../../src/assets/chatWiseIcon.png';
 import MenuSvg from './../assets/svg/MenuSvg';
 
 const Header = () => {
