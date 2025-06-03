@@ -2,6 +2,10 @@ import { benefitIcon1, benefitIcon2, benefitIcon3, benefitIcon4, benefitImage2, 
 
 import YourLogo from '../assets/hero/YourLogo';
 import RecordingOne from '../assets/services/RecordingOne';
+import Disk from '../assets/services/Disk';
+import ChromeCast from '../assets/services/ChromeCast';
+import SlidersFour from '../assets/services/SlidersFour';
+import RecordingThree from '../assets/services/RecordingThree';
 
 export const navigation = [
     {
@@ -51,11 +55,11 @@ export const chatWiseServices = [
 ];
 
 export const chatWiseServicesIcons = [
-    recording03,
-    recording01,
-    disc02,
-    chromeCast,
-    sliders04,
+    RecordingThree,
+    RecordingOne,
+    Disk,
+    ChromeCast,
+    SlidersFour,
 ];
 
 export const roadmap = [
