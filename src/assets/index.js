@@ -12,11 +12,6 @@ import homeSmile from './home-smile.svg';
 import file02 from './file-02.svg';
 import searchMd from './search-md.svg';
 import plusSquare from './plus-square.svg';
-import recording03 from './recording-03.svg';
-import recording01 from './recording-01.svg';
-import disc02 from './disc-02.svg';
-import chromeCast from './chromeCast.svg';
-import sliders04 from './sliders-04.svg';
 import loading from './loading.png';
 import background from './../assets/background.jpg';
 
@@ -83,11 +78,6 @@ export {
   file02,
   searchMd,
   plusSquare,
-  recording03,
-  recording01,
-  disc02,
-  chromeCast,
-  sliders04,
   loading,
   background,
   curve,
