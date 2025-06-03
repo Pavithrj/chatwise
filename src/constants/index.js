@@ -1,7 +1,7 @@
 import { benefitIcon1, benefitIcon2, benefitIcon3, benefitIcon4, benefitImage2, discord, discordBlack, facebook, figma, file02, framer, homeSmile, instagram, notification2, notification3, notification4, notion, photoShop, plusSquare, protoPie, raindrop, roadmap1, roadmap2, roadmap3, roadmap4, searchMd, slack, telegram, twitter, } from '../assets';
 
 import YourLogo from '../assets/hero/YourLogo';
-
+import RecordingOne from '../assets/services/RecordingOne';
 
 export const navigation = [
     {
