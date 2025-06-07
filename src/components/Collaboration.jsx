@@ -3,7 +3,7 @@ import { apps, content, text } from '../constants';
 import Section from './Section';
 import Button from './Button';
 import { LeftCurve, RightCurve } from './design/Collaboration';
-import ChatWiseIcon from './../assets/ChatWiseIcon.png';
+import ChatWiseIcon from './../assets/chatWiseIcon.png';
 
 const Collaboration = () => {
     return (
