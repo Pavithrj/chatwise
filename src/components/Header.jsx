@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useLocation } from 'react-router-dom';
-import { disablePageScroll, enablePageScroll } from 'scroll-lock';
+import noscroll from 'no-scroll';
 import Button from './Button';
 import { navigation } from './../constants/index';
 import { HamburgerMenu } from './design/Header';
