@@ -17,7 +17,7 @@ const Header = () => {
             noscroll.off();
         } else {
             setOpenNavigation(true);
-            disablePageScroll();
+            noscroll.on();
         }
     };
 
