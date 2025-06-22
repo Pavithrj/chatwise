@@ -14,7 +14,7 @@ const Header = () => {
     const toggleNavigation = () => {
         if (openNavigation) {
             setOpenNavigation(false);
-            enablePageScroll();
+            noscroll.off();
         } else {
             setOpenNavigation(true);
             disablePageScroll();
