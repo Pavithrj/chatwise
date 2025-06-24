@@ -104,7 +104,7 @@ export const content = [
     {
         id: "0",
         title: "Seamless Integration",
-        text: text,
+        text: text
     },
     {
         id: "1",
