@@ -269,7 +269,7 @@ export const socials = [
         id: "1",
         title: "Twitter",
         iconUrl: twitter,
-        url: "#",
+        url: "#"
     },
     {
         id: "2",
