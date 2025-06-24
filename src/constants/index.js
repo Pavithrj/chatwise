@@ -232,7 +232,7 @@ export const benefits = [
         title: "Connect everywhere",
         text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
         iconUrl: benefitIcon3,
-        imageUrl: benefitImage2,
+        imageUrl: benefitImage2
     },
     {
         id: "3",
