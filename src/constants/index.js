@@ -172,7 +172,7 @@ export const apps = [
         icon: raindrop,
         width: 38,
         height: 32,
-    },
+    }
 ];
 
 export const pricing = [
