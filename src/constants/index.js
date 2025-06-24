@@ -78,7 +78,7 @@ export const roadmap = [
         text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
         date: "May 2023",
         status: "progress",
-        imageUrl: roadmap2,
+        imageUrl: roadmap2
     },
     {
         id: "2",
