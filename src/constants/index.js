@@ -157,7 +157,7 @@ export const apps = [
         title: "ProtoPie",
         icon: protoPie,
         width: 34,
-        height: 34,
+        height: 34
     },
     {
         id: "6",
