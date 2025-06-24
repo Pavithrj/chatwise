@@ -150,7 +150,7 @@ export const apps = [
         title: "PhotoShop",
         icon: photoShop,
         width: 34,
-        height: 34,
+        height: 34
     },
     {
         id: "5",
