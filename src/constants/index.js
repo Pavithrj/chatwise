@@ -95,7 +95,7 @@ export const roadmap = [
         date: "May 2023",
         status: "progress",
         imageUrl: roadmap4,
-    },
+    }
 ];
 
 export const text = "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
