@@ -86,7 +86,7 @@ export const roadmap = [
         text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
         date: "May 2023",
         status: "done",
-        imageUrl: roadmap3,
+        imageUrl: roadmap3
     },
     {
         id: "3",
