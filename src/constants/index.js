@@ -164,7 +164,7 @@ export const apps = [
         title: "Framer",
         icon: framer,
         width: 26,
-        height: 34,
+        height: 34
     },
     {
         id: "7",
