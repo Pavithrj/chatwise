@@ -184,7 +184,7 @@ export const pricing = [
         features: [
             "An AI chatbot that can understand your queries",
             "Personalized recommendations based on your preferences",
-            "Ability to explore the app and its features without any cost",
+            "Ability to explore the app and its features without any cost"
         ]
     },
     {
