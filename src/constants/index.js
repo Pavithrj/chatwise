@@ -247,7 +247,7 @@ export const benefits = [
         title: "Ask anything",
         text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
         iconUrl: benefitIcon1,
-        imageUrl: benefitImage2,
+        imageUrl: benefitImage2
     },
     {
         id: "5",
