@@ -108,7 +108,7 @@ export const content = [
     },
     {
         id: "1",
-        title: "Smart Automation",
+        title: "Smart Automation"
     },
     {
         id: "2",
