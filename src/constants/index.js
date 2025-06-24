@@ -281,7 +281,7 @@ export const socials = [
         id: "3",
         title: "Telegram",
         iconUrl: telegram,
-        url: "#",
+        url: "#"
     },
     {
         id: "4",
