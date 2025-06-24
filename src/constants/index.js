@@ -171,7 +171,7 @@ export const apps = [
         title: "Raindrop",
         icon: raindrop,
         width: 38,
-        height: 32,
+        height: 32
     }
 ];
 
