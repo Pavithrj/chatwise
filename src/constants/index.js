@@ -254,7 +254,7 @@ export const benefits = [
         title: "Improve everyday",
         text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
         iconUrl: benefitIcon2,
-        imageUrl: benefitImage2,
+        imageUrl: benefitImage2
     }
 ];
 
