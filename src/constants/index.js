@@ -112,7 +112,7 @@ export const content = [
     },
     {
         id: "2",
-        title: "Top-notch Security",
+        title: "Top-notch Security"
     }
 ];
 
