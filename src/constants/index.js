@@ -208,7 +208,7 @@ export const pricing = [
             "Personalized recommendations based on your preferences",
             "Ability to explore the app and its features without any cost",
         ],
-    },
+    }
 ];
 
 export const benefits = [
