@@ -122,7 +122,7 @@ export const apps = [
         title: "Figma",
         icon: figma,
         width: 26,
-        height: 36,
+        height: 36
     },
     {
         id: "1",
