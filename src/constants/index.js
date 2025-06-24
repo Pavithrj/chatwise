@@ -143,7 +143,7 @@ export const apps = [
         title: "Slack",
         icon: slack,
         width: 34,
-        height: 35,
+        height: 35
     },
     {
         id: "4",
