@@ -136,7 +136,7 @@ export const apps = [
         title: "Discord",
         icon: discord,
         width: 36,
-        height: 28,
+        height: 28
     },
     {
         id: "3",
