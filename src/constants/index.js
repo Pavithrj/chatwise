@@ -94,7 +94,7 @@ export const roadmap = [
         text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
         date: "May 2023",
         status: "progress",
-        imageUrl: roadmap4,
+        imageUrl: roadmap4
     }
 ];
 
