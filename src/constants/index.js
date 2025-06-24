@@ -129,7 +129,7 @@ export const apps = [
         title: "Notion",
         icon: notion,
         width: 34,
-        height: 36,
+        height: 36
     },
     {
         id: "2",
