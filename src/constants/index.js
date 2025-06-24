@@ -185,7 +185,7 @@ export const pricing = [
             "An AI chatbot that can understand your queries",
             "Personalized recommendations based on your preferences",
             "Ability to explore the app and its features without any cost",
-        ],
+        ]
     },
     {
         id: "1",
