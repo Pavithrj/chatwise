@@ -195,7 +195,7 @@ export const pricing = [
         features: [
             "An advanced AI chatbot that can understand complex queries",
             "An analytics dashboard to track your conversations",
-            "Priority support to solve issues quickly",
+            "Priority support to solve issues quickly"
         ]
     },
     {
