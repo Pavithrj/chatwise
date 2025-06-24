@@ -288,5 +288,5 @@ export const socials = [
         title: "Facebook",
         iconUrl: facebook,
         url: "#",
-    },
+    }
 ];
