@@ -113,7 +113,7 @@ export const content = [
     {
         id: "2",
         title: "Top-notch Security",
-    },
+    }
 ];
 
 export const apps = [
