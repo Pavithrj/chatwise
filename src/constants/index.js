@@ -263,7 +263,7 @@ export const socials = [
         id: "0",
         title: "Discord",
         iconUrl: discordBlack,
-        url: "#",
+        url: "#"
     },
     {
         id: "1",
