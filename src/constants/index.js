@@ -287,6 +287,6 @@ export const socials = [
         id: "4",
         title: "Facebook",
         iconUrl: facebook,
-        url: "#",
+        url: "#"
     }
 ];
