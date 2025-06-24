@@ -240,7 +240,7 @@ export const benefits = [
         text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
         iconUrl: benefitIcon4,
         imageUrl: benefitImage2,
-        light: true,
+        light: true
     },
     {
         id: "4",
