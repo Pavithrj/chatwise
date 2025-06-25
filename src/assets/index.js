@@ -65,7 +65,7 @@ import twitter from './socials/twitter.svg';
 
 export {
     brainwave,
-  check,
+    check,
   check2,
   loading1,
   brainwaveSymbol,
