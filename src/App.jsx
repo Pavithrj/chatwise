@@ -7,6 +7,7 @@ import Pricing from './components/Pricing';
 import Roadmap from './components/Roadmap';
 import Footer from './components/Footer';
 
+
 function App() {
     return (
         <div>
