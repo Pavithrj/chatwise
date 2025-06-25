@@ -71,7 +71,7 @@ export {
     brainwaveSymbol,
     brainwaveWhiteSymbol,
     play,
-   gradient,
+    gradient,
   smallSphere,
   grid,
   homeSmile,
