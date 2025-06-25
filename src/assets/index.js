@@ -64,7 +64,7 @@ import telegram from './socials/telegram.svg';
 import twitter from './socials/twitter.svg';
 
 export {
-  brainwave,
+    brainwave,
   check,
   check2,
   loading1,
