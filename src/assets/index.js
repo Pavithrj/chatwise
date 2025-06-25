@@ -70,7 +70,7 @@ export {
     loading1,
     brainwaveSymbol,
     brainwaveWhiteSymbol,
-  play,
+   play,
   gradient,
   smallSphere,
   grid,
