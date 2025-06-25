@@ -72,7 +72,7 @@ export {
     brainwaveWhiteSymbol,
     play,
     gradient,
-  smallSphere,
+   smallSphere,
   grid,
   homeSmile,
   file02,
