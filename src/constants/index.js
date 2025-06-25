@@ -78,7 +78,7 @@ export const roadmap = [
         text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
         date: "May 2023",
         status: "progress",
-        imageUrl: roadmap2,
+        imageUrl: roadmap2
     },
     {
         id: "2",
@@ -86,7 +86,7 @@ export const roadmap = [
         text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
         date: "May 2023",
         status: "done",
-        imageUrl: roadmap3,
+        imageUrl: roadmap3
     },
     {
         id: "3",
@@ -94,8 +94,8 @@ export const roadmap = [
         text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
         date: "May 2023",
         status: "progress",
-        imageUrl: roadmap4,
-    },
+        imageUrl: roadmap4
+    }
 ];
 
 export const text = "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
@@ -104,16 +104,16 @@ export const content = [
     {
         id: "0",
         title: "Seamless Integration",
-        text: text,
+        text: text
     },
     {
         id: "1",
-        title: "Smart Automation",
+        title: "Smart Automation"
     },
     {
         id: "2",
-        title: "Top-notch Security",
-    },
+        title: "Top-notch Security"
+    }
 ];
 
 export const apps = [
@@ -122,57 +122,57 @@ export const apps = [
         title: "Figma",
         icon: figma,
         width: 26,
-        height: 36,
+        height: 36
     },
     {
         id: "1",
         title: "Notion",
         icon: notion,
         width: 34,
-        height: 36,
+        height: 36
     },
     {
         id: "2",
         title: "Discord",
         icon: discord,
         width: 36,
-        height: 28,
+        height: 28
     },
     {
         id: "3",
         title: "Slack",
         icon: slack,
         width: 34,
-        height: 35,
+        height: 35
     },
     {
         id: "4",
         title: "PhotoShop",
         icon: photoShop,
         width: 34,
-        height: 34,
+        height: 34
     },
     {
         id: "5",
         title: "ProtoPie",
         icon: protoPie,
         width: 34,
-        height: 34,
+        height: 34
     },
     {
         id: "6",
         title: "Framer",
         icon: framer,
         width: 26,
-        height: 34,
+        height: 34
     },
     {
         id: "7",
         title: "Raindrop",
         icon: raindrop,
         width: 38,
-        height: 32,
-    },
+        height: 32
+    }
 ];
 
 export const pricing = [
@@ -184,8 +184,8 @@ export const pricing = [
         features: [
             "An AI chatbot that can understand your queries",
             "Personalized recommendations based on your preferences",
-            "Ability to explore the app and its features without any cost",
-        ],
+            "Ability to explore the app and its features without any cost"
+        ]
     },
     {
         id: "1",
@@ -195,8 +195,8 @@ export const pricing = [
         features: [
             "An advanced AI chatbot that can understand complex queries",
             "An analytics dashboard to track your conversations",
-            "Priority support to solve issues quickly",
-        ],
+            "Priority support to solve issues quickly"
+        ]
     },
     {
         id: "2",
@@ -206,9 +206,9 @@ export const pricing = [
         features: [
             "An AI chatbot that can understand your queries",
             "Personalized recommendations based on your preferences",
-            "Ability to explore the app and its features without any cost",
-        ],
-    },
+            "Ability to explore the app and its features without any cost"
+        ]
+    }
 ];
 
 export const benefits = [
@@ -217,7 +217,7 @@ export const benefits = [
         title: "Ask anything",
         text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
         iconUrl: benefitIcon1,
-        imageUrl: benefitImage2,
+        imageUrl: benefitImage2
     },
     {
         id: "1",
@@ -225,14 +225,14 @@ export const benefits = [
         text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
         iconUrl: benefitIcon2,
         imageUrl: benefitImage2,
-        light: true,
+        light: true
     },
     {
         id: "2",
         title: "Connect everywhere",
         text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
         iconUrl: benefitIcon3,
-        imageUrl: benefitImage2,
+        imageUrl: benefitImage2
     },
     {
         id: "3",
@@ -240,22 +240,22 @@ export const benefits = [
         text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
         iconUrl: benefitIcon4,
         imageUrl: benefitImage2,
-        light: true,
+        light: true
     },
     {
         id: "4",
         title: "Ask anything",
         text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
         iconUrl: benefitIcon1,
-        imageUrl: benefitImage2,
+        imageUrl: benefitImage2
     },
     {
         id: "5",
         title: "Improve everyday",
         text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
         iconUrl: benefitIcon2,
-        imageUrl: benefitImage2,
-    },
+        imageUrl: benefitImage2
+    }
 ];
 
 export const socials = [
@@ -263,30 +263,30 @@ export const socials = [
         id: "0",
         title: "Discord",
         iconUrl: discordBlack,
-        url: "#",
+        url: "#"
     },
     {
         id: "1",
         title: "Twitter",
         iconUrl: twitter,
-        url: "#",
+        url: "#"
     },
     {
         id: "2",
         title: "Instagram",
         iconUrl: instagram,
-        url: "#",
+        url: "#"
     },
     {
         id: "3",
         title: "Telegram",
         iconUrl: telegram,
-        url: "#",
+        url: "#"
     },
     {
         id: "4",
         title: "Facebook",
         iconUrl: facebook,
-        url: "#",
-    },
+        url: "#"
+    }
 ];
