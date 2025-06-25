@@ -2,7 +2,7 @@ import Section from './Section';
 import Heading from './Heading';
 import Generating from './Generating';
 import { PhotoChatMessage, Gradient, VideoBar, VideoChatMessage } from './design/Services';
-
+import { chatWiseServices, chatWiseServicesIcons } from './../constants/index';
 
 
 const Services = () => {
