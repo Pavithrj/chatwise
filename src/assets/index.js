@@ -74,7 +74,7 @@ export {
     gradient,
     smallSphere,
     grid,
-  homeSmile,
+   homeSmile,
   file02,
   searchMd,
   plusSquare,
