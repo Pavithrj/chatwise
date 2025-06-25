@@ -28,7 +28,7 @@ const Header = () => {
     };
 
     return (
-        <div className={`fixed top-0 left-0 z-50 w-full border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${openNavigation ? "bg-n-8" : "bg-n-8/90 backdrop-blur-sm"}`}>
+        <header className={`fixed top-0 left-0 z-50 w-full border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${openNavigation ? "bg-n-8" : "bg-n-8/90 backdrop-blur-sm"}`}>
             <div className="flex items-center px-5 py-4">
                 <a className="flex items-center gap-4" href="/chatwise">
                     <img src={ChatWiseIcon} alt="ChatWiseIcon" width={50} height={50} />
@@ -64,7 +64,7 @@ const Header = () => {
                     <MenuSvg openNavigation={openNavigation} />
                 </Button>
             </div>
-        </div>
+        </header>
     )
 };
 
