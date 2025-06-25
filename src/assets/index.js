@@ -67,7 +67,7 @@ export {
     brainwave,
     check,
     check2,
-  loading1,
+    loading1,
   brainwaveSymbol,
   brainwaveWhiteSymbol,
   play,
