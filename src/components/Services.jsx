@@ -2,7 +2,6 @@ import Section from './Section';
 import Heading from './Heading';
 import Generating from './Generating';
 import { service1, service2, service3, check } from './../assets';
-import { chatWiseServices, chatWiseServicesIcons } from './../constants/index';
 import { PhotoChatMessage, Gradient, VideoBar, VideoChatMessage } from './design/Services';
 
 const Services = () => {
