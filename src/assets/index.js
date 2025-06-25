@@ -73,7 +73,7 @@ export {
     play,
     gradient,
     smallSphere,
-   grid,
+    grid,
   homeSmile,
   file02,
   searchMd,
