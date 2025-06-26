@@ -77,7 +77,7 @@ export {
     homeSmile,
     file02,
     searchMd,
-   plusSquare,
+    plusSquare,
   loading,
   background,
   curve,
