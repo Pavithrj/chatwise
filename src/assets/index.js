@@ -76,7 +76,7 @@ export {
     grid,
     homeSmile,
     file02,
-  searchMd,
+   searchMd,
   plusSquare,
   loading,
   background,
