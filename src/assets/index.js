@@ -82,7 +82,7 @@ export {
     background,
     curve,
     robot,
-  heroBackground,
+   heroBackground,
   curveOne,
   curveTwo,
   discord,
