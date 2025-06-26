@@ -84,7 +84,7 @@ export {
     robot,
     heroBackground,
     curveOne,
-  curveTwo,
+   curveTwo,
   discord,
   figma,
   framer,
