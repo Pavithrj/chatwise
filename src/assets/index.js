@@ -80,7 +80,7 @@ export {
     plusSquare,
     loading,
     background,
-  curve,
+   curve,
   robot,
   heroBackground,
   curveOne,
