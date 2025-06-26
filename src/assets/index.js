@@ -86,7 +86,7 @@ export {
     curveOne,
     curveTwo,
     discord,
-   figma,
+    figma,
   framer,
   notion,
   photoShop,
