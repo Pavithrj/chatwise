@@ -79,7 +79,7 @@ export {
     searchMd,
     plusSquare,
     loading,
-   background,
+    background,
   curve,
   robot,
   heroBackground,
