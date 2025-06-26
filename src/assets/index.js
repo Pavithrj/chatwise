@@ -83,7 +83,7 @@ export {
     curve,
     robot,
     heroBackground,
-   curveOne,
+    curveOne,
   curveTwo,
   discord,
   figma,
