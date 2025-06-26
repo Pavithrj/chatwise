@@ -85,7 +85,7 @@ export {
     heroBackground,
     curveOne,
     curveTwo,
-  discord,
+   discord,
   figma,
   framer,
   notion,
