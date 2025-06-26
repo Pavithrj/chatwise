@@ -88,7 +88,7 @@ export {
     discord,
     figma,
     framer,
-   notion,
+    notion,
   photoShop,
   protoPie,
   raindrop,
