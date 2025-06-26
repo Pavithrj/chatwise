@@ -87,7 +87,7 @@ export {
     curveTwo,
     discord,
     figma,
-   framer,
+    framer,
   notion,
   photoShop,
   protoPie,
