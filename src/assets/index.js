@@ -81,7 +81,7 @@ export {
     loading,
     background,
     curve,
-  robot,
+   robot,
   heroBackground,
   curveOne,
   curveTwo,
