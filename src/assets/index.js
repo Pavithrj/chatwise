@@ -75,7 +75,7 @@ export {
     smallSphere,
     grid,
     homeSmile,
-  file02,
+   file02,
   searchMd,
   plusSquare,
   loading,
