@@ -78,7 +78,7 @@ export {
     file02,
     searchMd,
     plusSquare,
-   loading,
+    loading,
   background,
   curve,
   robot,
