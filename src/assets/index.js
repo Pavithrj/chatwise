@@ -89,7 +89,7 @@ export {
     figma,
     framer,
     notion,
-  photoShop,
+   photoShop,
   protoPie,
   raindrop,
   slack,
