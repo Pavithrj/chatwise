@@ -1,5 +1,5 @@
-import brackets from '../assets/svg/Brackets';
 import PropTypes from 'prop-types';
+import brackets from '../assets/svg/Brackets';
 
 const Tagline = ({ className, children }) => {
     return (
