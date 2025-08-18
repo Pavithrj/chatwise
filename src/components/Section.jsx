@@ -27,7 +27,7 @@ Section.propTypes = {
     crosses: PropTypes.bool,
     crossesOffset: PropTypes.string,
     customPaddings: PropTypes.string,
-    children: PropTypes.node,
+    children: PropTypes.node
 };
 
 export default Section;
