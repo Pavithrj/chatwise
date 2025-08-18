@@ -6,7 +6,7 @@ import { roadmap } from '../constants';
 import { check2, grid, loading1 } from '../assets';
 
 const Roadmap = () => (
-    <Section className="overflow-hidden" id="roadmap">
+    <Section id="roadmap" className="overflow-hidden">
         <div className="container md:pb-10">
             <Heading tag="Ready to get started" title="What we’re working on" />
 
@@ -15,12 +15,12 @@ const Roadmap = () => (
                     const status = item.status === "done" ? "Done" : "In progress";
 
                     return (
-                        <div key={item.id} className={`md:flex even:md:translate-y-[7rem] p-0.25 rounded-[2.5rem] ${item.colorful ? "bg-conic-gradient" : "bg-n-6"
-                            }`}>
+                        <div key={item.id} className={`md:flex even:md:translate-y-[7rem] p-0.25 rounded-[2.5rem] ${item.colorful ? "bg-conic-gradient" : "bg-n-6"}`}>
                             <div className="relative p-8 bg-n-8 rounded-[2.4375rem] overflow-hidden xl:p-15">
                                 <div className="absolute top-0 left-0 max-w-full">
                                     <img className="w-full" src={grid} width={550} height={550} alt="Grid" />
                                 </div>
+
                                 <div className="relative z-1">
                                     <div className="flex items-center justify-between max-w-[27rem] mb-8 md:mb-20">
                                         <Tagline>
@@ -50,7 +50,7 @@ const Roadmap = () => (
                                 </div>
                             </div>
                         </div>
-                    );
+                    )
                 })}
             </div>
 
@@ -63,4 +63,4 @@ const Roadmap = () => (
     </Section>
 );
 
-export default Roadmap;
+export default Roadmap
