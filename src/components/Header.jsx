@@ -2,10 +2,10 @@ import { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import noscroll from 'no-scroll';
 import Button from './Button';
-import { navigation } from './../constants/index';
 import { HamburgerMenu } from './design/Header';
-import ChatWiseIcon from './../../src/assets/chatWiseIcon.png';
 import MenuSvg from './../assets/svg/MenuSvg';
+import { navigation } from './../constants/index';
+import ChatWiseIcon from './../../src/assets/chatWiseIcon.png';
 
 const Header = () => {
     const [openNavigation, setOpenNavigation] = useState(false);
@@ -28,7 +28,7 @@ const Header = () => {
     };
 
     return (
-        <header className={`fixed top-0 left-0 z-50 w-full border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${openNavigation ? "bg-n-8" : "bg-n-8/90 backdrop-blur-sm"}`}>
+        <div className={`fixed top-0 left-0 z-50 w-full border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${openNavigation ? "bg-n-8" : "bg-n-8/90 backdrop-blur-sm"}`}>
             <div className="flex items-center px-5 py-4">
                 <a className="flex items-center gap-4" href="/chatwise">
                     <img src={ChatWiseIcon} alt="ChatWiseIcon" width={50} height={50} />
@@ -64,7 +64,7 @@ const Header = () => {
                     <MenuSvg openNavigation={openNavigation} />
                 </Button>
             </div>
-        </header>
+        </div>
     )
 };
 
