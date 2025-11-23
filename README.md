@@ -82,8 +82,15 @@ Chatwise/
 ## 🧰 Installation Steps
 
 ```bash
+# Clone the repository
 git clone https://github.com/Pavithrj/chatwise.git
+
+# Navigate to the project folder
 cd chatwise
+
+# Install dependencies
 npm install
+
+# Start the development server
 npm run dev
 ```
